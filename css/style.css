@@ -496,7 +496,7 @@ ol {
 }
 .hero__text h2 {
   color: #ffffff;
-  font-size: 60px;
+  font-size: 45px;
   font-weight: 700;
   line-height: 70px;
   text-transform: uppercase;
@@ -509,6 +509,7 @@ ol {
   transition: all, 0.5s;
 }
 .hero__text .primary-btn {
+  background:rgba(255, 255, 255, 0.5) ;
   position: relative;
   top: 100px;
   opacity: 0;
