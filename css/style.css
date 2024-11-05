@@ -524,7 +524,7 @@ ol {
 -----------------------*/
 .work {
   overflow: hidden;
-  background: #100028;
+  background: linear-gradient(0deg, rgba(16,0,40,1) 11%, rgba(56,6,45,1) 93%);
 }
 
 .work__gallery {
@@ -617,7 +617,7 @@ ol {
   Counter
 -----------------------*/
 .counter {
-  background: #100028;
+  background: linear-gradient(0deg, rgba(56,6,45,1) 11%, rgba(16,0,40,1) 93%);
   height: 840px;
   padding-top: 380px;
   overflow: hidden;
@@ -707,6 +707,7 @@ ol {
 -----------------------*/
 .team {
   padding-bottom: 90px;
+  background: linear-gradient(0deg, rgba(16,0,40,1) 11%, rgba(56,6,45,1) 93%);
 }
 
 .section-title.team__title {
@@ -1030,7 +1031,7 @@ ol {
   About
 -----------------------*/
 .about {
-  background: #100028;
+  background: linear-gradient(0deg, rgba(56,6,45,1) 11%, rgba(16,0,40,1) 93%);
   padding-bottom: 150px;
 }
 
@@ -1131,7 +1132,7 @@ ol {
   Services
 -----------------------*/
 .services {
-  background: #100028;
+  background: linear-gradient(0deg, rgba(56,6,45,1) 11%, rgba(16,0,40,1) 93%);
   padding-bottom: 60px;
   padding-top: 110px;
 }
@@ -1204,7 +1205,7 @@ ol {
   Portfolio
 -----------------------*/
 .portfolio {
-  background: #100028;
+  background: linear-gradient(0deg, rgba(16,0,40,1) 11%, rgba(56,6,45,1) 93%);
 }
 
 .portfolio__filter {
