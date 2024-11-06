@@ -142,6 +142,7 @@ ol {
   content: "";
 }
 
+
 .set-bg {
   background-repeat: no-repeat;
   background-size: cover;
@@ -1682,7 +1683,7 @@ ol {
   Contact Widget
 -----------------------*/
 .contact-widget {
-  background: #100028;
+  background: linear-gradient(0deg, rgba(16,0,40,1) 11%, rgba(56,6,45,1) 93%);
   padding-bottom: 70px;
 }
 
